@@ -11,4 +11,4 @@ This allows us to change the persistence technology or the type of ERC token we 
 
 1. This type of architecture also allows you to have more control of the code because once you have your business logic you barely have to touch it making it easier to control bugs or security flaws that can come with those bugs.
 
-It has drawbacks too, it’s a bit slow to start this development and it need a good design for it but I think that if you want to have something as a base for future projects of the company you have to try and do it correctly from the beginning.
+It has drawbacks too, it is a bit slow at the beggining and it needs a good design for it but I think that if you want to have something as a base for future projects of the company you have to try and do it correctly from the beginning.
