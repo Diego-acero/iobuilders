@@ -20,6 +20,7 @@ The technologies should be chosen depending on the team we have available but I 
 Regarding the team, we must consider that the POC has 4 months to develop the project and the code must be as clean as possible because we want it to be usable for other projects.
 
 Front-end: 1 senior developer with experience in organising the front-end code with 1 or 2 less experience developers that can be autonomous. This part of the team should focus in creating the apps with a simple style layout, so they have more time for testing coverage and having the project organise and clean for reuse.
+
 Back-end: 1 senior developer with experience in architecture to be the “go to” to clear doubts about it with 3-5 less experience developer in which we can include one or 2 more junior ones that can do some tasks more independently.
 
 UX/UI: If we take the approach of not focusing time in the style we don’t need any one during the POC, after we see that the project works we could add this member to the team of have one in the team that continue the project. This is because styling apps or webs is one of the most time-consuming parts of a project and time is something that this POC don’t have.
