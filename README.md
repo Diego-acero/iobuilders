@@ -2,7 +2,7 @@
 ## POC EXERCISE
 ### (1) What are your thoughts, ideas about tech, architecture with this context?
 
-Being a Finance App in which the users are going to manage money and have their identity in, the security is one of the main issues we should have in mind. On the other hand we also want this project to be a base project for other projects in the company so it has to be well design in a way that reaching its services from other projects or extending the services should be simple and barely affect the development that has been done before.
+Being a Finance App in which the users are going to manage money and have their identity, the security is one of the main issues we should have in mind. On the other hand we also want this project to be a base project for other projects in the company so it has to be well design in a way that reaching its services from other projects or extending the services should be simple and barely affect the development that has been done before.
 For tackling these issues, I think, after the research I have been doing these days, that the best architecture for the core of this project is Hexagonal Architecture or Domain Driven Development (DDD).
 
 The reason for me to think this way is because:
